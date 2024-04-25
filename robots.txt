@@ -1,0 +1,34 @@
+User-agent: *
+
+Disallow: /portfolio/satomi_matsuzaki/
+
+Disallow: /portfolio/urmu-pedalsupply/
+
+Disallow: /portfolio/svetlana_nagaeva/
+
+Disallow: /portfolio/greg_saunier/
+
+Disallow: /portfolio/andrew-goes-to-hell/
+
+Disallow: /portfolio/john_dieterich/
+
+Disallow: /portfolio/ed_rodriguez/
+
+Disallow: /portfolio/villa-park/
+
+Disallow: /portfolio/zack/
+
+Disallow: /portfolio/billy-teska/
+
+Disallow: /about/
+
+Disallow: /
+
+Disallow: /contact/
+
+Disallow: /portfolio/
+
+Disallow: /categories/
+
+Disallow: /tags/
+
